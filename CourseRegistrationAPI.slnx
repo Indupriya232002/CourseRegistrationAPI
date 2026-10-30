@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BusinessLayer/BusinessLayer.csproj" />
+  <Project Path="CourseRegistrationAPI/CourseRegistrationAPI.csproj" />
+  <Project Path="DataAccessLayer/DataAccessLayer.csproj" />
+  <Project Path="EntityLayer/EntityLayer.csproj" />
+</Solution>
